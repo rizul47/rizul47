@@ -1,0 +1,100 @@
+Uri: https://sites.google.com/view/rizul47/home
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\view\rizul47\home.html
+Content Type: text/html
+
+Uri: https://ssl.gstatic.com/atari/images/impression-header.png
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\atari\images\impression-header.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/atari/images/public/favicon.ico
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\atari\images\public\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://fonts.googleapis.com/css?family=Oswald:400%2C600%2C700|Open Sans:400%2C600%2C700&display=swap
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Google+Sans:400,500|Roboto:300,400,500,700|Source+Code+Pro:400,700&display=swap
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\css-1.css
+Content Type: text/css
+
+Uri: https://www.gstatic.com/_/atari/_/ss/k=atari.vw.E9fa4F8uuA4.L.X.O/d=1/rs=AGEqA5mGxAKytvhVA52HijDlwtIYQWii-Q
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\_\atari\_\ss\k=atari.vw.E9fa4F8uuA4.L.X.O\d=1\rs=AGEqA5mGxAKytvhVA52HijDlwtIYQWii-Q.css
+Content Type: text/css
+
+Uri: https://sites.google.com/view/rizul47/home/blogs
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\view\rizul47\home\blogs.html
+Content Type: text/html
+
+Uri: https://apis.google.com/js/client.js?onload=gapiLoaded
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\js\client.js
+Content Type: application/javascript
+
+Uri: https://lh5.googleusercontent.com/UhKtm8ANroZBNXLDOn8gx-KZInstZDs-pmxSTrf590RY1ywb9m_FILrnXx0FYK_JV4xv8BiDo0xgr6PmPUQjSgX4muC2bukLn0ZdhLYdsVvZvDDggrw_4qknt-L27YXFbg=w1280
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\UhKtm8ANroZBNXLDOn8gx-KZInstZDs-pmxSTrf590RY1ywb9m_FILrnXx0FYK_JV4xv8BiDo0xgr6PmPUQjSgX4muC2bukLn0ZdhLYdsVvZvDDggrw_4qknt-L27YXFbg=w1280.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh3.googleusercontent.com/ZKW5E5OmNIrxgshobihOoLc89NWWaiZjcvcQ1jvvYuddC_nqDUHfrEzwUSImQQj58Mw-HxcCsX1jYIDc4xMzfkHirllCNooIZObUAI_Fu_AR34A0bKZbAsUMobgS8_EZAw=w1280
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\ZKW5E5OmNIrxgshobihOoLc89NWWaiZjcvcQ1jvvYuddC_nqDUHfrEzwUSImQQj58Mw-HxcCsX1jYIDc4xMzfkHirllCNooIZObUAI_Fu_AR34A0bKZbAsUMobgS8_EZAw=w1280.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh6.googleusercontent.com/FtLG64ZQiXt0c2ycMs5o6CT4ZJaf3RG_TfRrlzHR2uA8keRbe4z8Cr6sStA9CeHL3ShUntLDOa_YFAPtAAIRlS9pxl4mKkBz7ai6YMK0m42yvD2CAscndZlfS__OPwRQ-w=w1280
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\FtLG64ZQiXt0c2ycMs5o6CT4ZJaf3RG_TfRrlzHR2uA8keRbe4z8Cr6sStA9CeHL3ShUntLDOa_YFAPtAAIRlS9pxl4mKkBz7ai6YMK0m42yvD2CAscndZlfS__OPwRQ-w=w1280.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh4.googleusercontent.com/t5STGWp4iYg5rbE8-2QXc8a1Sfrn5iuiRzLqG0fyQH0FXAf549uxnt7LQ7aTQZUJz63wesZu_FHeNc-_gc6mNrUS_1wCB5XIIOyNFS1lXX5yorCqtoHKIiDEPKaaZUKvJA=w1280
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\t5STGWp4iYg5rbE8-2QXc8a1Sfrn5iuiRzLqG0fyQH0FXAf549uxnt7LQ7aTQZUJz63wesZu_FHeNc-_gc6mNrUS_1wCB5XIIOyNFS1lXX5yorCqtoHKIiDEPKaaZUKvJA=w1280.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh3.googleusercontent.com/v0_04nogmCy5LA_MT26LSKC8BNllCJ-0ER-PDk8bd_KbQ9t30Pp1GS678M2rYN_yni_pAgKY8Z0VKKfwj-s098pCZ6-8Lhiqh3QxuHI-1PLTfMJqNMGGjRnDmi3BAtsM_g=w1280
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\v0_04nogmCy5LA_MT26LSKC8BNllCJ-0ER-PDk8bd_KbQ9t30Pp1GS678M2rYN_yni_pAgKY8Z0VKKfwj-s098pCZ6-8Lhiqh3QxuHI-1PLTfMJqNMGGjRnDmi3BAtsM_g=w1280.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh6.googleusercontent.com/Ky-w2lrb_ThqG2dcVfKDseIiMcd1Em3aBUJbSOHx1gg8l3mfxHSVl618pf-DJo0_j7ROrQEp-7jJhNCeGWDPbsO9fVQ-He06AAWAYlrBSSVoW3rqzRhimKcqTYvMgiUKWg=w1280
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\Ky-w2lrb_ThqG2dcVfKDseIiMcd1Em3aBUJbSOHx1gg8l3mfxHSVl618pf-DJo0_j7ROrQEp-7jJhNCeGWDPbsO9fVQ-He06AAWAYlrBSSVoW3rqzRhimKcqTYvMgiUKWg=w1280.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh5.googleusercontent.com/dEShYMNAYxLxws3dHMmsOtj0dEvOd0Rjp6RB0e5WdP5JaVhFUDsQR-6wh5DrzUwFoB-ze64s_LE9j0xMobP2HQJgVqPo7YQdxam_QP53eyskLOQ_RDQ23eAaHfe4hL2Fvw=w1280
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\dEShYMNAYxLxws3dHMmsOtj0dEvOd0Rjp6RB0e5WdP5JaVhFUDsQR-6wh5DrzUwFoB-ze64s_LE9j0xMobP2HQJgVqPo7YQdxam_QP53eyskLOQ_RDQ23eAaHfe4hL2Fvw=w1280.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh6.googleusercontent.com/fKKfSlik934P2Mb67-58o_cXAomXhAjTfLmQJmxd3sOqPp_0mjcruRNdj1sfRWMHNPWRRtoYKKlO4ZoBkefcY7CcVcYWWcO5YKdyHQBqgeHZvIeW_ijNRWrvz8evZdtEOg=w1280
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\fKKfSlik934P2Mb67-58o_cXAomXhAjTfLmQJmxd3sOqPp_0mjcruRNdj1sfRWMHNPWRRtoYKKlO4ZoBkefcY7CcVcYWWcO5YKdyHQBqgeHZvIeW_ijNRWrvz8evZdtEOg=w1280.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh6.googleusercontent.com/-NCB6EF9UPztWPoRN33GY5oyR0cyZ4SSKFBv7OY5wvQ1eAqY78CPpIFRQR_RBEa-l-pQ9t7WjXSbPuk-M-LQmWTPvp-kiWECAeI-hmeSLthSoqmazNKC2hx0tF3y5y_nZw=w1280
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\-NCB6EF9UPztWPoRN33GY5oyR0cyZ4SSKFBv7OY5wvQ1eAqY78CPpIFRQR_RBEa-l-pQ9t7WjXSbPuk-M-LQmWTPvp-kiWECAeI-hmeSLthSoqmazNKC2hx0tF3y5y_nZw=w1280.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh6.googleusercontent.com/lasxwD_0JQ6cXM9jzdL31WCsW9l23m8m4Sj0KD8ibMsTm9Q3NSWIrWrLLqd5MbN-y_v1O0UqaIKA8-zE8hX-lH4iYsNEeay22tSUC_izOy1Rxjf4DinWMi0Yvzv29Jndfg=w1280
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\lasxwD_0JQ6cXM9jzdL31WCsW9l23m8m4Sj0KD8ibMsTm9Q3NSWIrWrLLqd5MbN-y_v1O0UqaIKA8-zE8hX-lH4iYsNEeay22tSUC_izOy1Rxjf4DinWMi0Yvzv29Jndfg=w1280.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh6.googleusercontent.com/mf_AcR6ocx0C6ZN0_viZNLlE9rRiSpZozoRVM8gv3N2E02L4gtYKRWSpcCZ6Tm4NgWRm6RLa_eeeG7AcRwQ9RDCMxgPxkLO5GN5CZd6SSG1hayVeiBOErtOob615eKUOTg=w1280
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\mf_AcR6ocx0C6ZN0_viZNLlE9rRiSpZozoRVM8gv3N2E02L4gtYKRWSpcCZ6Tm4NgWRm6RLa_eeeG7AcRwQ9RDCMxgPxkLO5GN5CZd6SSG1hayVeiBOErtOob615eKUOTg=w1280.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh6.googleusercontent.com/l-kvu4_El5XlTe584mMJgU5QDJhAJd6eMq3nB0Q23tGgQ9-tR5-sKrco-1CwbMk7vsvBkWyb66c0wgmqk3TpcZbF-TrC-xwBD27P7PElfFsCY-l-0BD7d9OaM6p0RxTUxQ=w1280
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\l-kvu4_El5XlTe584mMJgU5QDJhAJd6eMq3nB0Q23tGgQ9-tR5-sKrco-1CwbMk7vsvBkWyb66c0wgmqk3TpcZbF-TrC-xwBD27P7PElfFsCY-l-0BD7d9OaM6p0RxTUxQ=w1280.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh5.googleusercontent.com/IlfOM66WsBmpusdTUaFCt-sQ7r1hdHA9GGCZ9-cO69bbSKnLuv4ftNvYxiYqOH9mW8GNoz1C5Oj_RPaVpjMlYeseDn_cXrslXVBGCmBPLnXuYVtcBtmqjIFzhSeoeSlWaw=w1280
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\IlfOM66WsBmpusdTUaFCt-sQ7r1hdHA9GGCZ9-cO69bbSKnLuv4ftNvYxiYqOH9mW8GNoz1C5Oj_RPaVpjMlYeseDn_cXrslXVBGCmBPLnXuYVtcBtmqjIFzhSeoeSlWaw=w1280.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh4.googleusercontent.com/MixbosH0imH2KozPqCl9hA_OuO-Lkj4N4LOO_WB1xqnGegOR6CKP796j_AX_Cd2wuDbR6805Ol_G0xD5Rwm4KdcuxzB9UbQPOySQB3lzD99F3x6X1NaB48B4ytvpT-Tl=w1280
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\MixbosH0imH2KozPqCl9hA_OuO-Lkj4N4LOO_WB1xqnGegOR6CKP796j_AX_Cd2wuDbR6805Ol_G0xD5Rwm4KdcuxzB9UbQPOySQB3lzD99F3x6X1NaB48B4ytvpT-Tl=w1280.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh3.googleusercontent.com/IWTA5OQapqCzT40xJMY2t8uz1MXY_kF12ZHH2mxe11oYrxYqXH7sfdulAxRR1LwKBqKorqdV_IpuWXQrW_rbOgorE28ndKvQZvXvd6l2kMHw6ERw9MnEI8EPUo2Stjgvsg=w1280
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\IWTA5OQapqCzT40xJMY2t8uz1MXY_kF12ZHH2mxe11oYrxYqXH7sfdulAxRR1LwKBqKorqdV_IpuWXQrW_rbOgorE28ndKvQZvXvd6l2kMHw6ERw9MnEI8EPUo2Stjgvsg=w1280.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh5.googleusercontent.com/-TQj6NGAzJwJ7NyLVLFe7Cr3mkK0v-cwhSvyLvhw7eT3STSVhFw35NfWy4sq9D73dZeweAyCio1iB2-HUuRAwQq_s7_tob-XtZ5MxHKW6u0H51FotgeNlYzfc6pD5C5AuA=w1280
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\-TQj6NGAzJwJ7NyLVLFe7Cr3mkK0v-cwhSvyLvhw7eT3STSVhFw35NfWy4sq9D73dZeweAyCio1iB2-HUuRAwQq_s7_tob-XtZ5MxHKW6u0H51FotgeNlYzfc6pD5C5AuA=w1280.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gstatic.com/_/atari/_/js/k=atari.vw.en_US.JhFF570cUkM.O/d=1/rs=AGEqA5lW8sbPCEax-o8MCVRJjWiZz904Tw/m=view
+File Name: D:\Research and Project\rizul47.github.io\sites.google.com\_\atari\_\js\k=atari.vw.en_US.JhFF570cUkM.O\d=1\rs=AGEqA5lW8sbPCEax-o8MCVRJjWiZz904Tw\m=view
+Content Type: text/javascript
+
